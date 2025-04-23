@@ -1,0 +1,12 @@
+{
+  "name": "nft-holders-fetcher",
+  "version": "1.0.0",
+  "description": "Script pour récupérer les détenteurs d'un contrat NFT",
+  "main": "fetchHolders.js",
+  "scripts": {
+    "start": "node fetchHolders.js"
+  },
+  "dependencies": {
+    "ethers": "^6.7.0"
+  }
+}
